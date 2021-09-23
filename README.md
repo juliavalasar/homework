@@ -37,6 +37,7 @@
 
 - rectangles
 - get_ranges
+- chess_moves
 
 ## Краткая инструкция
 
