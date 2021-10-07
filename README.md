@@ -38,6 +38,7 @@
 - rectangles
 - get_ranges
 - chess_moves
+- decorators
 
 ## Краткая инструкция
 
